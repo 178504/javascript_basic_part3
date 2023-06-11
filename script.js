@@ -3,7 +3,7 @@ var variableNumber = 178;
 console.log(variableNumber)//178
 
 //2 変数にString型を代入してconsole.log()で表示させてください。
-var variableText = "Text"
+var variableText = "Text";
 console.log(variableText)//Text
 
 //3. 変数にBoolean型を代入してconsole.log()で表示させてください。
